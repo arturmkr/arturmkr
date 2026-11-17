@@ -1,14 +1,10 @@
 # Artur Mkrtychian
 
-<img align="right" width="120" src="assets/headshot.jpg" alt="Artur Mkrtychian">
-
 **Senior Platform / DevOps Engineer · CNCF Kubestronaut**
 
 I build and operate infrastructure for data platforms.
 
 [LinkedIn](https://www.linkedin.com/in/mkrtychian/) · [Credly](https://www.credly.com/users/artur-mkrtychian/)
-
-<br clear="all">
 
 ## Open source
 
